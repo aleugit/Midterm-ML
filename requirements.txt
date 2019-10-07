@@ -1,0 +1,8 @@
+Flask
+WTForms
+SQLAlchemy
+bcrypt
+requests
+flask-heroku
+gunicorn
+stripe==2.18.1
